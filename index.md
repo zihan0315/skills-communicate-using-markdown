@@ -1,0 +1,10 @@
+# Zihan Trying GitHub Tutorial
+## This is Zihan's first day on GitHub
+—— today is June 6th, 2023
+### She is trying to use markdown
+*—— and different markdown elements*
+#### She is now trying various headers
+ ——the one above is header 4
+##### Now it comes to header 5
+###### And the practice ends with header 6 here. 
+She just tried creating headers for different elements. 
