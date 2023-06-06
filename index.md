@@ -12,4 +12,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 ###### And the practice ends with header 6 here. 
-She just tried creating headers for different elements. 
+She is creating a task list: 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
