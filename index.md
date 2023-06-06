@@ -5,6 +5,7 @@
 *—— and different markdown elements*
 #### She is now trying various headers
  ——the one above is header 4
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ##### Now it comes to header 5
 ###### And the practice ends with header 6 here. 
 She just tried creating headers for different elements. 
